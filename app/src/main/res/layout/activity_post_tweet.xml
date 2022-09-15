@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PostTweetActivity"
+    android:background="@color/appColor">
+
+    <EditText
+        android:id="@+id/tweetEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/custom_edit_text"
+        android:hint="Tweet"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.05" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/postTweet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post Tweet"
+        app:layout_constraintHorizontal_bias="1"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/buttonColor"
+        app:layout_constraintEnd_toEndOf="@+id/tweetEditText"
+        app:layout_constraintStart_toStartOf="@+id/tweetEditText"
+        app:layout_constraintTop_toBottomOf="@+id/tweetEditText" />
+</androidx.constraintlayout.widget.ConstraintLayout>

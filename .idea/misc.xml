@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/drawable/curve_constraint_layout.xml" value="0.1" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/drawable/custom_edit_text.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/drawable/custom_linear_layout.xml" value="0.2355" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/drawable/custom_register_main_activity.xml" value="0.2355" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/drawable/custom_signin_main_activity.xml" value="0.2355" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout-land/activity_login.xml" value="0.1948853615520282" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/activity_post_tweet.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/activity_register.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/activity_your_feed.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/layout/custom_list_view.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/adity/AndroidStudioProjects/TwitterClone/app/src/main/res/menu/home_activity_menu.xml" value="0.23020833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

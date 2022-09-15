@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501031503921",
+    "project_id": "twitterclone-b34c5",
+    "storage_bucket": "twitterclone-b34c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501031503921:android:8e1315754eeacbcbd22d10",
+        "android_client_info": {
+          "package_name": "com.aditya.twitterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501031503921-vk06n23g522vvkkea9611p90gaqsb5th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDR1k_3dyoIL3EwJyKN9fyJH-x2SKukU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501031503921-vk06n23g522vvkkea9611p90gaqsb5th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

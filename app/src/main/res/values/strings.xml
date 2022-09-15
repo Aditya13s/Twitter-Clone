@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="alreadyHaveAnAccount">Already have an account? <font color='#4285F4'>Log in</font></string>
+    <string name="loginPageNotAMember">Not a member? <font color='#4285F4'>Register now</font></string>
+</resources>
